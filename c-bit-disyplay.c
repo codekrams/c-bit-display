@@ -19,4 +19,5 @@ int main(){
         bitwert = bitwert/2;
         bitzaehler = bitzaehler-1;
     }
+	return 0;
 }
